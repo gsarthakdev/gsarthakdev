@@ -9,7 +9,7 @@
 • ⚡ Fun fact: My average typing speed is 100 WPM, now isn't that fast!
 
 ## Technologies I use:
-[![My Skills](https://skillicons.dev/icons?i=js,react,gcp,firebase,vscode,py,redux,idea,java,linux,figma,github&perline=6)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,react,gcp,firebase,vscode,py,redux,idea,java,linux,figma,github&perline=6)
 
 
 
