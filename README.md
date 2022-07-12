@@ -1,6 +1,6 @@
 ### Hi there, I'm Sarthak :wave:
 
-## I'm a React Native Developer, who loves to code! 💻
+## I'm a React Native Developer, who loves to code! 👨‍💻
 
 • 🔭 I’m currently working on an Employee Wellness App that bridges the gap between employee wellness and busy work.
 
