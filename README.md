@@ -2,7 +2,7 @@
 
 ## I'm a Software Development Engineer, who loves to code! 👨‍💻
 
-• 🔭 I’m currently working on an Employee Wellness App that bridges the gap between employee wellness and busy work.
+• 🔭 I’m currently working on developing mobile applications using React Native and learning to integrate Google Maps APIs.
 
 • :white_check_mark: Certified **Microsoft Office Specialist Master** and **Microsoft Technology Associate**.
 
