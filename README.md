@@ -2,9 +2,9 @@
 
 ## I'm a Software Development Engineer, building innovative solutions! 👨‍💻
 
-• 🔭 I’m currently working on developing mobile applications using React Native and learning to integrate Google Maps APIs.
+• 🔭 I am currently working on developing mobile and web applications, using React & React Native; building software that solves challenging problems.
 
-• :white_check_mark: Certified **Microsoft Office Specialist Master** and **Microsoft Technology Associate**.
+• :white_check_mark: Certified **Microsoft Technology Associate** and **Microsoft Office Specialist Master**.
 
 • ⚡ Fun fact: My average typing speed is 100 WPM, now isn't that fast!
 
