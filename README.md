@@ -1,6 +1,6 @@
 ### Hi there, I'm Sarthak :wave:
 
-## I'm a Software Development Engineer, building innovative solutions! 👨‍💻
+## I'm a Software Engineer, building innovative solutions! 👨‍💻
 
 • 🔭 I am currently working on developing mobile and web applications, using React & React Native; building software that solves challenging problems.
 
