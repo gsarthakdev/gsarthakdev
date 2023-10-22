@@ -2,6 +2,8 @@
 
 ## I'm a Software Engineer, building innovative solutions! 👨‍💻
 
+![gsarthakdevimg](https://github.com/gsarthakdev/gsarthakdev/assets/63082917/e207e840-b580-4015-93f4-502756f9d21d)
+
 • 🔭 I am currently working on developing mobile and web applications, using React & React Native; building software that solves challenging problems.
 
 • :white_check_mark: Certified **Microsoft Technology Associate** and **Microsoft Office Specialist Master**.
@@ -10,6 +12,7 @@
 
 ## Technologies I use:
 ![My Skills](https://skillicons.dev/icons?i=js,react,aws,firebase,vscode,py,redux,idea,java,linux,ts,gcp&perline=6)
+
 
 
 
