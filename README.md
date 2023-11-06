@@ -2,7 +2,9 @@
 
 ## I'm a Software Engineer, building innovative solutions! 👨‍💻
 
-![gsarthakdevimg](https://github.com/gsarthakdev/gsarthakdev/assets/63082917/e207e840-b580-4015-93f4-502756f9d21d)
+<!-- ![gsarthakdevimg](https://github.com/gsarthakdev/gsarthakdev/assets/63082917/e207e840-b580-4015-93f4-502756f9d21d) -->
+<!--![animatedpicture](https://github.com/gsarthakdev/gsarthakdev/assets/63082917/abe11f9d-1a91-4a51-b9ba-c0fd07020f2d) -->
+![animatedpicturereadme](https://github.com/gsarthakdev/gsarthakdev/assets/63082917/01cd1ff1-24be-4ad2-81fc-557f47a91034)
 
 • 🔭 I am currently working on developing mobile and web applications, using React & React Native; building software that solves challenging problems.
 
