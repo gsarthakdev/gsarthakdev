@@ -1,38 +1,70 @@
-### Hi there, I'm Sarthak :wave:
+# Hi, I'm Sarthak!
 
-## I'm a Software Engineer, building innovative solutions! 👨‍💻
+Software Engineer | Machine Learning & Platform Optimization | Entrepreneur
 
-<!-- ![gsarthakdevimg](https://github.com/gsarthakdev/gsarthakdev/assets/63082917/e207e840-b580-4015-93f4-502756f9d21d) -->
-<!--![animatedpicture](https://github.com/gsarthakdev/gsarthakdev/assets/63082917/abe11f9d-1a91-4a51-b9ba-c0fd07020f2d) -->
-![animatedpicturereadme](https://github.com/gsarthakdev/gsarthakdev/assets/63082917/01cd1ff1-24be-4ad2-81fc-557f47a91034)
+[LinkedIn](https://www.linkedin.com/in/gsarthak) | [GitHub](https://github.com/gsarthakdev) | [hello@sarthak.pro](mailto:hello@sarthak.pro)
 
-• 🔭 When I'm not coding, I'm whiteboarding solutions, talking to users, and building custom algorithms!
+---
 
-• 9 certifications:
-  - ✔️ **Certified Associate in Python Programming** (PCAP-31-03)
-  - ✔️ **Microsoft Technology Associate**
-  - ✔️ **Microsoft Office Specialist Master**
+## About Me
 
-• ⚡ Fun fact: My average typing speed is 100 WPM, now isn't that fast!
+I turn **complex technical challenges into scalable solutions** that drive measurable business value. Whether it’s leading a \$50k enterprise pilot at 16, optimizing a 9-figure-scale ML platform @Intuit, or building AI-powered health tech apps, my focus is on **impact, speed, and precision**.
 
-## Technologies I use:
-![My Skills](https://skillicons.dev/icons?i=js,react,aws,firebase,vscode,py,redux,idea,java,linux,ts,gcp&perline=6)
+I think of myself as a venture capitalist of my **time, money, and impact** -- always seeking projects that multiply value for users, teams, and organizations.
 
+---
 
+## Key Achievements
 
+### Intuit Credit Karma | Machine Learning Engineer Intern
 
-<!--
-**gsarthakdev/gsarthakdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Optimized ML model inference **from 7 hours → 36 minutes** (92% faster) and **cost from \$600 → \$89** (85% cheaper), enabling \$400k+ annual savings.
+* Scaled Data Science workloads to **10x more models** without increasing infrastructure cost/load.
+* Designed batch processing, caching, and parallel I/O optimizations now referenced in Google Cloud’s ML inference offerings.
+* Applied **systems-level thinking** for production ML at enterprise scale, balancing latency, throughput, and cost.
 
-Here are some ideas to get you started:
+### Glow | Founder & AI Product Lead
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-🌱 I’m currently learning React Native, Google Firebase, JavaScript
--->
+* Built an **AI-powered iOS app** gamifying at-home behavior logging for parents and BCBAs.
+* Achieved **92% daily engagement** with reports automatically delivered to professionals, cutting session prep in half.
+
+### Enterprise Software Projects
+
+* At 16, led a **\$50k enterprise pilot** for a \$1B+ pharmaceutical company.
+* Developed predictive and ML-powered SaaS platforms for **student lifecycle management and healthcare**.
+* Delivered full-stack solutions with **Python, React, Node.js, AWS, and GCP**, integrating ML models for actionable insights.
+
+---
+
+## Core Skills
+
+* **Machine Learning & AI:** Apache Beam, ML pipelines, predictive modeling
+* **Software Engineering:** Python, Java, TypeScript, React, Node.js
+* **Cloud & Infrastructure:** GCP, AWS, Docker, Dataflow Flex Templates, CI/CD pipelines
+* **Product & Impact:** Rapid prototyping, scalable enterprise software, cost/performance optimization
+
+---
+
+## Notable Metrics
+
+* **92% faster ML scoring**, **85% cost reduction** → \$400k annual savings
+* **10x model onboarding capacity** without additional infrastructure
+* **92% daily engagement** in consumer health tech apps
+
+---
+
+## Projects & Ventures
+
+* **Glow (AI iOS app):** Parents log behavior in 8 seconds; BCBAs get automated reports.
+* **1700ventures.com:** Building and iterating on ventures solving “hair-on-fire” problems.
+* **Enterprise SaaS:** Student lifecycle management, predictive scheduling, secure cloud solutions.
+
+---
+
+## Why Connect With Me
+
+* If you’re building **ML platforms, scalable SaaS, or AI-driven products**.
+* If you want to discuss **performance optimization, cloud-native solutions, or startup ventures**.
+* I value **direct collaboration** — Connect on LinkedIn or send an email.
+
+[LinkedIn](https://www.linkedin.com/in/gsarthak) | [hello@sarthak.pro](mailto:hello@sarthak.pro)
