@@ -2,7 +2,7 @@
 
 Software Engineer | Machine Learning & Platform Optimization | Entrepreneur
 
-[LinkedIn](https://www.linkedin.com/in/gsarthak) | [GitHub](https://github.com/gsarthakdev) | [hello@sarthak.pro](mailto:hello@sarthak.pro)
+[LinkedIn](https://www.linkedin.com/in/gsarthak) | [GitHub](https://github.com/gsarthakdev)
 
 ---
 
@@ -23,18 +23,21 @@ I think of myself as a venture capitalist of my **time, money, and impact** -- s
 * Containerized Spark/Beam jobs with **Docker** and deployed via **Dataflow Flex Templates**, ensuring reproducible, cloud-native workflows.  
 * Scaled Data Science workloads to **10x more models** without increasing infrastructure cost/load.  
 * Designed batch processing, fixed cost vs ammortized, and parallel I/O optimizations now referenced in **Google Cloud’s ML inference offerings**.  
-* Applied **systems-level thinking** for production ML at enterprise scale, balancing latency, throughput, and cost.  
+* Applied **systems-level thinking** for production ML at enterprise scale, balancing latency, throughput, and cost.
 
-### Glow | Founder & AI Product Lead
-
-* Built an **AI-powered iOS app** gamifying at-home behavior logging for parents and BCBAs.  
-* Achieved **92% daily engagement** with reports automatically delivered to professionals, cutting session prep in half.  
+### Experian DataLabs
+* Working in an applied research and R&D environment focused on AI-first applications, LLMs, and GenAI for financial technology.
 
 ### Enterprise Software Projects
 
 * At 16, led a **\$50k enterprise pilot** for a \$1B+ pharmaceutical company.  
 * Developed predictive and ML-powered SaaS platforms for **student lifecycle management and healthcare**.  
-* Delivered full-stack solutions with **Python, React, Node.js, AWS, and GCP**, integrating ML models for actionable insights.  
+* Delivered full-stack solutions with **Python, React, Node.js, AWS, and GCP**, integrating ML models for actionable insights.
+
+### Glow | Founder & AI Product Lead
+
+* Built an **AI-powered iOS app** gamifying at-home behavior logging for parents and BCBAs.  
+* Achieved **92% daily engagement** with reports automatically delivered to professionals, cutting session prep in half.  
 
 ---
 
