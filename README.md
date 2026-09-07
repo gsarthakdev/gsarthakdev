@@ -1,6 +1,8 @@
+<img width="6336" height="1584" alt="Sarthak_Gupta_Banner_SWE" src="https://github.com/user-attachments/assets/200721eb-e288-4661-88c3-6f9ba2367ec5" />
+
 # Hi, I'm Sarthak!
 
-Software Engineer | Machine Learning & Platform Optimization | Entrepreneur
+Software Engineer | ML/Backend/AI | Product-driven
 
 [LinkedIn](https://www.linkedin.com/in/gsarthak) | [GitHub](https://github.com/gsarthakdev)
 
@@ -72,4 +74,4 @@ I think of myself as a venture capitalist of my **time, money, and impact** -- s
 * If you want to discuss **distributed data processing, Spark/Beam pipelines, or cloud-native optimization**.  
 * I value **direct collaboration** -- Connect on LinkedIn or send an email.  
 
-[LinkedIn](https://www.linkedin.com/in/gsarthak) | [hello@sarthak.pro](mailto:hello@sarthak.pro)
+[LinkedIn](https://www.linkedin.com/in/gsarthak) | [dev@sarthak.pro](mailto:dev@sarthak.pro)
