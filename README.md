@@ -74,4 +74,4 @@ I think of myself as a venture capitalist of my **time, money, and impact** -- s
 * If you want to discuss **distributed data processing, Spark/Beam pipelines, or cloud-native optimization**.  
 * I value **direct collaboration** -- Connect on LinkedIn or send an email.  
 
-[LinkedIn](https://www.linkedin.com/in/gsarthak) | [dev@sarthak.pro](mailto:dev@sarthak.pro)
+[LinkedIn](https://www.linkedin.com/in/gsarthak) | [hello@sarthak.pro](mailto:hello@sarthak.pro)
