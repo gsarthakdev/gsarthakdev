@@ -10,7 +10,7 @@ Software Engineer | ML/Backend/AI | Product-driven
 
 ## About Me
 
-I turn **complex technical challenges into scalable solutions** that drive measurable business value. Whether it’s leading a \$50k enterprise pilot at 16, optimizing a 9-figure-scale ML platform @Intuit, or building AI-powered health tech apps, my focus is on **impact, speed, and precision**.
+I turn **complex technical challenges into scalable solutions** that drive measurable business value. Whether it’s leading a \$100k enterprise pilot at 16, optimizing a 9-figure-scale ML platform @Intuit, or building AI-powered health tech apps, my focus is on **impact, speed, and precision**.
 
 I think of myself as a venture capitalist of my **time, money, and impact** -- seeking projects that multiply value for users, teams, and organizations.
 
@@ -32,7 +32,7 @@ I think of myself as a venture capitalist of my **time, money, and impact** -- s
 
 ### Enterprise Software Projects
 
-* At 16, led a **\$50k enterprise pilot** for a \$1B+ pharmaceutical company.  
+* At 16, led a **\$100k enterprise pilot** for a \$1B+ pharmaceutical company.  
 * Developed predictive and ML-powered SaaS platforms for **student lifecycle management and healthcare**.  
 * Delivered full-stack solutions with **Python, React, Node.js, AWS, and GCP**, integrating ML models for actionable insights.
 
